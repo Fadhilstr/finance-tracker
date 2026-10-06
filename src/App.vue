@@ -81,7 +81,7 @@ function scrollToTransactions() {
           <div>
             <div class="flex items-center gap-2">
               <span class="text-base font-extrabold tracking-tight text-slate-900">
-                Finora
+                Persfin
               </span>
               <span class="text-[10px] font-bold uppercase tracking-wider bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded-full border border-emerald-100/60">
                 Offline First
@@ -173,7 +173,7 @@ function scrollToTransactions() {
     <footer class="mt-auto py-6 border-t border-slate-200/80 bg-white">
       <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500">
         <p>
-          Finora — Aplikasi Pencatatan Keuangan Pribadi (100% Client-Side)
+          Persfin — Aplikasi Pencatatan Keuangan Pribadi (100% Client-Side)
         </p>
         <p class="text-slate-400">
           Data tersimpan di browser Anda menggunakan IndexedDB

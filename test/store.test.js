@@ -4,7 +4,7 @@ import { db } from '../src/db/database.js';
 import { useTransactionStore } from '../src/stores/transactionStore.js';
 
 async function runTests() {
-  console.log('--- Starting Finora Test Suite ---');
+  console.log('--- Starting Persfin Test Suite ---');
   setActivePinia(createPinia());
   const store = useTransactionStore();
 

@@ -1,6 +1,6 @@
-# Finora — Persfin Personal Finance
+# Persfin — Personal Finance
 
-Finora adalah aplikasi web pencatatan dan pemantauan keuangan pribadi yang berjalan **100% di browser/client-side (offline-first)**.
+Persfin adalah aplikasi web pencatatan dan pemantauan keuangan pribadi yang berjalan **100% di browser/client-side (offline-first)**.
 
 ## Fitur Utama
 

@@ -1,6 +1,6 @@
 import Dexie from 'dexie';
 
-export const db = new Dexie('FinoraDB');
+export const db = new Dexie('PersfinDB');
 
 // Define database schema
 db.version(1).stores({

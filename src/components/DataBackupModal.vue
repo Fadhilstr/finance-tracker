@@ -47,7 +47,7 @@ function handleExport() {
     
     const a = document.createElement('a');
     a.href = url;
-    a.download = `finora-backup-${getCurrentDateString()}.json`;
+    a.download = `persfin-backup-${getCurrentDateString()}.json`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -155,7 +155,7 @@ function handleKeydown(e) {
               Ekspor Data (JSON)
             </h4>
             <p class="text-xs text-slate-500 mt-1 leading-relaxed">
-              Unduh seluruh catatan transaksi Finora ke dalam berkas JSON untuk disimpan secara aman di komputer Anda.
+              Unduh seluruh catatan transaksi Persfin ke dalam berkas JSON untuk disimpan secara aman di komputer Anda.
             </p>
             <button
               type="button"
