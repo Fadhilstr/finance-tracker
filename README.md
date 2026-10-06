@@ -1,4 +1,4 @@
-# Finora — Personal Finance Dashboard
+# Finora — Persfin Personal Finance
 
 Finora adalah aplikasi web pencatatan dan pemantauan keuangan pribadi yang berjalan **100% di browser/client-side (offline-first)**.
 
@@ -46,3 +46,4 @@ Aplikasi ini siap di-deploy langsung ke Vercel:
 2. Framework Preset: **Vite**
 3. Build Command: `npm run build`
 4. Output Directory: `dist`
+

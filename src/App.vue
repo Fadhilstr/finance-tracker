@@ -88,7 +88,7 @@ function scrollToTransactions() {
               </span>
             </div>
             <p class="text-[11px] text-slate-500 leading-none">
-              Personal Finance Dashboard
+              Persfin Personal Finance
             </p>
           </div>
         </div>
@@ -207,3 +207,4 @@ function scrollToTransactions() {
     />
   </div>
 </template>
+

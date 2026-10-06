@@ -41,3 +41,4 @@ export const CATEGORY_COLORS = {
   Investasi: '#84cc16',    // Lime
   Lainnya: '#64748b'       // Slate gray
 };
+

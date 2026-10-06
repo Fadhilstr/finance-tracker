@@ -101,3 +101,4 @@ const recentList = computed(() => store.recentTransactions);
     </div>
   </div>
 </template>
+

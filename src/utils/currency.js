@@ -38,3 +38,4 @@ export function parseRupiah(value) {
   const parsed = parseInt(cleanDigits, 10);
   return isNaN(parsed) ? 0 : parsed;
 }
+

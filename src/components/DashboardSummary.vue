@@ -93,3 +93,4 @@ const isBalancePositive = computed(() => balance.value >= 0);
     </div>
   </div>
 </template>
+
