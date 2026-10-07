@@ -1,6 +1,6 @@
 # Persfin — Personal Finance
 
-Persfin adalah aplikasi web pencatatan dan pemantauan keuangan pribadi yang berjalan **100% di browser/client-side (offline-first)**.
+Web pencatatan dan pemantauan keuangan pribadi yang berjalan **100% di browser/client-side (offline-first)**.
 
 ## Fitur Utama
 
